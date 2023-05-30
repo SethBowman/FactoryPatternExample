@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternExample\FactoryPatternExample\bin\Debug\net7.0\FactoryPatternExample.exe
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternExample\FactoryPatternExample\bin\Debug\net7.0\FactoryPatternExample.deps.json
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternExample\FactoryPatternExample\bin\Debug\net7.0\FactoryPatternExample.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternExample\FactoryPatternExample\bin\Debug\net7.0\FactoryPatternExample.dll
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternExample\FactoryPatternExample\bin\Debug\net7.0\FactoryPatternExample.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternExample\FactoryPatternExample\obj\Debug\net7.0\FactoryPatternExample.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternExample\FactoryPatternExample\obj\Debug\net7.0\FactoryPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternExample\FactoryPatternExample\obj\Debug\net7.0\FactoryPatternExample.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternExample\FactoryPatternExample\obj\Debug\net7.0\FactoryPatternExample.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternExample\FactoryPatternExample\obj\Debug\net7.0\FactoryPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternExample\FactoryPatternExample\obj\Debug\net7.0\FactoryPatternExample.dll
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternExample\FactoryPatternExample\obj\Debug\net7.0\refint\FactoryPatternExample.dll
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternExample\FactoryPatternExample\obj\Debug\net7.0\FactoryPatternExample.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternExample\FactoryPatternExample\obj\Debug\net7.0\FactoryPatternExample.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternExample\FactoryPatternExample\obj\Debug\net7.0\ref\FactoryPatternExample.dll
